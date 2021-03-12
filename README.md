@@ -1,8 +1,6 @@
-
-#include<stdio.h>
-void main()
+#include <stdio.h>
+int main() 
 {
-     clrscr();
-     printf( " My Name Is Human " ); 
-     getch();
+   printf("Hello, World!");
+   return 0;
 }
